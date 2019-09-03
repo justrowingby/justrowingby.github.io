@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on justrowingby</title>
-    <link>justrowingby.github.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on justrowingby</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Sep 2019 15:03:43 -0500</lastBuildDate>
     
-	<atom:link href="justrowingby.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Python Setup for MacOS</title>
-      <link>justrowingby.github.io/posts/python-setup/</link>
+      <link>/posts/python-setup/</link>
       <pubDate>Tue, 03 Sep 2019 15:03:43 -0500</pubDate>
       
-      <guid>justrowingby.github.io/posts/python-setup/</guid>
+      <guid>/posts/python-setup/</guid>
       <description>This is how to get up and running into my python setup, all in one place for future reference and anyone else who wants to see it</description>
     </item>
     
