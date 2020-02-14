@@ -6,19 +6,9 @@
     <description>Recent content on justrowingby</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2019 15:03:43 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Python Setup for MacOS</title>
-      <link>/posts/python-setup/</link>
-      <pubDate>Tue, 03 Sep 2019 15:03:43 -0500</pubDate>
-      
-      <guid>/posts/python-setup/</guid>
-      <description>This is how to get up and running into my python setup, all in one place for future reference and anyone else who wants to see it</description>
-    </item>
     
   </channel>
 </rss>
